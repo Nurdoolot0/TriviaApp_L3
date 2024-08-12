@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Trivia</string>
+    <string name="username_hint">Username</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="next">NEXT</string>
+    <string name="logo_desc">Trivia logo</string>
+    <string name="trivia">Trivia</string>
+</resources>
